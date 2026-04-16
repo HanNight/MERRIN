@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2604.13418"><img src="https://img.shields.io/badge/arXiv-2604.13418-b31b1b.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/datasets/HanNight/MERRIN"><img src="https://img.shields.io/badge/🤗-Dataset-yellow.svg" alt="HuggingFace"></a>
   <a href="https://merrin-benchmark.github.io/"><img src="https://img.shields.io/badge/🌐-Website-blue.svg" alt="Website"></a>
 </p>
@@ -204,6 +204,6 @@ If you find MERRIN useful, please cite our paper:
   title={MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments},
   author={Han Wang and David Wan and Hyunji Lee and Thinh Pham and Mikaela Cankosyan and Weiyuan Chen and Elias Stengel-Eskin and Tu Vu and Mohit Bansal},
   year={2026},
-  journal={arXiv preprint arXiv:}
+  journal={arXiv preprint arXiv:2604.13418}
 }
 ```
