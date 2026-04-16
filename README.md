@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://hannight.github.io/"><b>Han Wang</b></a>*,
-  <a href="https://meetdavidwan.github.io/"><b>David Wan</b></a>*,
-  <a href="https://amy-hyunji.github.io/"><b>Hyunji Lee</b></a>*,
-  <a href="https://thinhphp.github.io/"><b>Thinh Pham</b></a>,
-  <a href="https://www.linkedin.com/in/mikaela-cankosyan/"><b>Mikaela Cankosyan</b></a>,
-  <a href="https://katie-chen2.github.io/"><b>Weiyuan Chen</b></a>,
+  <a href="https://hannight.github.io/"><b>Han Wang</b></a><sup>1*</sup>,
+  <a href="https://meetdavidwan.github.io/"><b>David Wan</b></a><sup>1*</sup>
+  <a href="https://amy-hyunji.github.io/"><b>Hyunji Lee</b></a><sup>1*</sup>,
+  <a href="https://thinhphp.github.io/"><b>Thinh Pham</b></a><sup>2</sup>,
+  <a href="https://www.linkedin.com/in/mikaela-cankosyan/"><b>Mikaela Cankosyan</b></a><sup>2</sup>,
+  <a href="https://katie-chen2.github.io/"><b>Weiyuan Chen</b></a><sup>2</sup>,
   <br>
-  <a href="https://esteng.github.io/"><b>Elias Stengel-Eskin</b></a>,
-  <a href="https://tuvllms.github.io/"><b>Tu Vu</b></a>,
-  <a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a>
+  <a href="https://esteng.github.io/"><b>Elias Stengel-Eskin</b></a><sup>3</sup>,
+  <a href="https://tuvllms.github.io/"><b>Tu Vu</b></a><sup>2</sup>,
+  <a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a><sup>1</sup>
   <br>
-  UNC Chapel Hill, Virginia Tech, UT Austin
+  <sup>1</sup>UNC Chapel Hill, <sup>2</sup>Virginia Tech, <sup>3</sup>UT Austin
   <br>
   <em>* Equal contribution</em>
 </p>
