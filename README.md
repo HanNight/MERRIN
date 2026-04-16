@@ -15,6 +15,7 @@
   <a href="https://thinhphp.github.io/"><b>Thinh Pham</b></a>,
   <a href="https://www.linkedin.com/in/mikaela-cankosyan/"><b>Mikaela Cankosyan</b></a>,
   <a href="https://katie-chen2.github.io/"><b>Weiyuan Chen</b></a>,
+  <br>
   <a href="https://esteng.github.io/"><b>Elias Stengel-Eskin</b></a>,
   <a href="https://tuvllms.github.io/"><b>Tu Vu</b></a>,
   <a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a>
