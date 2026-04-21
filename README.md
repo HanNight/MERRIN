@@ -26,7 +26,7 @@
 </p>
 
 ## 📖 Overview
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/36069169/578923030-d87f3eb5-9831-41c2-895c-979df5616a54.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260415%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260415T234826Z&X-Amz-Expires=300&X-Amz-Signature=82f836592ba8f232ad8554c4b5cdd603c7e2ea2f60b59ae5f99dff4a9c1acba8&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+![image](https://github.com/user-attachments/assets/f679e3e1-fdd0-4470-884d-e3e13e45ac8f)
 
 MERRIN is a benchmark designed to evaluate whether search-augmented models can autonomously determine which non-text modalities (images, videos, charts) to retrieve and reason over when answering questions. All 162 questions in MERRIN satisfy three criteria:
 
